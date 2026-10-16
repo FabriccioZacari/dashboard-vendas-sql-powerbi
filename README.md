@@ -8,7 +8,7 @@ Este projeto simula um cenário corporativo real de Business Intelligence, onde 
 
 ## 🖼️ Visualização do Dashboard
 
-*(<img width="1319" height="777" alt="Dashboard-Vendas" src="https://github.com/user-attachments/assets/040ea08e-6907-4ee5-827a-42e08c0c444a" />)*
+*<img width="1319" height="777" alt="Dashboard-Vendas" src="https://github.com/user-attachments/assets/040ea08e-6907-4ee5-827a-42e08c0c444a" />*
 
 ---
 
